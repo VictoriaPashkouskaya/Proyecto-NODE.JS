@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "proyecto de Node.js utilizando NPM",
+  "main": "index.js",
+  "scripts": {
+		"start": "node index.js",
+  "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS.git"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "Viktoriya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS#readme",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  }
+}

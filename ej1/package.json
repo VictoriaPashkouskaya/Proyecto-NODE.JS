@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Viktoriya",
+  "license": "MIT",
+  "description": "progect NOD.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS/issues"
+  },
+  "homepage": "https://github.com/VictoriaPashkouskaya/Proyecto-NODE.JS#readme",
+  "dependencies": {
+    "logplease": "^1.2.15"
+  },
+  "devDependencies": {}
+}
